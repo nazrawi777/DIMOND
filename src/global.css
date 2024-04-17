@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quantico:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Calibri:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-urbanist: Urbanist;
+  --font-quicksand: Quicksand;
+  --font-reem-kufi: "Reem Kufi";
+  --font-quantico: Quantico;
+  --font-calibri: Calibri;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-midnightblue: #1c2682;
+  --color-mediumslateblue: #4454e3;
+  --color-black: #000;
+}

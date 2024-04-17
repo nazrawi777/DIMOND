@@ -1,0 +1,99 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 1440px;
+  height: 427px;
+}
+.whiteLogo2Icon {
+  position: absolute;
+  top: 17px;
+  left: 19px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.diamondCasting {
+  position: absolute;
+  top: 30px;
+  left: 75px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-quantico);
+  display: inline-block;
+  width: 152px;
+  height: 29px;
+}
+.span {
+  white-space: pre-wrap;
+}
+.span1 {
+  font-family: var(--font-urbanist);
+}
+.p,
+.quickLinks {
+  margin: 0;
+}
+.p {
+  font-family: var(--font-urbanist);
+}
+.aboutUs1 {
+  font-size: var(--font-size-5xl);
+}
+.blankLine {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.contact {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.quickLinksAboutContainer {
+  position: absolute;
+  top: 23px;
+  left: 272px;
+  display: inline-block;
+  width: 370px;
+  height: 403px;
+  font-family: var(--font-calibri);
+}
+.blankLine3 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.getInTouchContainer {
+  position: absolute;
+  top: 24px;
+  left: 997px;
+  display: inline-block;
+  width: 443px;
+  height: 51px;
+}
+.phone0114628535Container {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 322px;
+  height: 316px;
+}
+.thumbnail1Icon {
+  position: absolute;
+  top: 81px;
+  left: 19px;
+  width: 284px;
+  height: 267px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1337px;
+  left: 419px;
+  width: 1440px;
+  height: 427px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-urbanist);
+}

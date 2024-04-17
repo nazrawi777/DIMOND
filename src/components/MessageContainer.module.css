@@ -1,0 +1,66 @@
+.groupChild,
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  position: absolute;
+  top: 168px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 257px;
+  height: 30px;
+}
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  top: 112px;
+}
+.groupInner,
+.rectangleDiv {
+  top: 56px;
+}
+.rectangleDiv {
+  top: 0;
+}
+.phone {
+  position: absolute;
+  top: 35px;
+  left: 2px;
+  display: inline-block;
+  width: 200px;
+  height: 15px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  width: 257px;
+  height: 198px;
+}
+.email,
+.message,
+.name {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  display: inline-block;
+  width: 200px;
+  height: 15px;
+}
+.email,
+.message {
+  top: 114px;
+}
+.message {
+  top: 168px;
+}
+.groupParent {
+  position: absolute;
+  top: 3288px;
+  left: 664px;
+  width: 257px;
+  height: 224px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-urbanist);
+}

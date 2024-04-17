@@ -1,0 +1,45 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 373px;
+  height: 467px;
+}
+.featuresImg21Icon {
+  position: absolute;
+  top: 17px;
+  left: 19px;
+  width: 78px;
+  height: 78px;
+  object-fit: cover;
+}
+.videoProduction {
+  margin: 0;
+}
+.blankLine {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.videoProductionWeContainer {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  display: inline-block;
+  width: 370px;
+  height: 351px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 192px;
+  left: 963px;
+  width: 373px;
+  height: 467px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-reem-kufi);
+}

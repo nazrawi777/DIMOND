@@ -1,0 +1,205 @@
+.frameChild,
+.servicesChild {
+  position: absolute;
+  top: 28px;
+  left: 803.7px;
+  width: 879.7px;
+  height: 1268.3px;
+  object-fit: contain;
+}
+.frameChild {
+  top: 13px;
+  left: 0;
+  width: 831.9px;
+  height: 1170.6px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumslateblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 373px;
+  height: 467px;
+}
+.blankLine {
+  margin: 0;
+}
+.asBrandingSpecialists {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.brandingAsBrandingContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 373px;
+  height: 435px;
+}
+.featuresImg11Icon {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  width: 78px;
+  height: 78px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 191px;
+  left: 459px;
+  width: 373px;
+  height: 467px;
+}
+.featuresImg21Icon {
+  position: absolute;
+  top: 17px;
+  left: 19px;
+  width: 78px;
+  height: 78px;
+  object-fit: cover;
+}
+.videoProduction {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.videoProductionWeContainer {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  display: inline-block;
+  width: 370px;
+  height: 351px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 719px;
+  left: 963px;
+  width: 373px;
+  height: 467px;
+  font-size: var(--font-size-xl);
+  color: var(--color-mediumslateblue);
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumslateblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 370px;
+  height: 468px;
+}
+.featuresImg31Icon {
+  position: absolute;
+  top: 18px;
+  left: 22px;
+  width: 80.3px;
+  height: 79px;
+  object-fit: cover;
+}
+.digitalMarketingAsContainer {
+  position: absolute;
+  top: 89px;
+  left: 0;
+  display: inline-block;
+  width: 370px;
+  height: 372px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 190px;
+  left: 1456px;
+  width: 370px;
+  height: 468px;
+  font-size: var(--font-size-xl);
+  color: var(--color-mediumslateblue);
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 419px;
+  background-color: var(--color-midnightblue);
+  width: 387px;
+  height: 102px;
+}
+.frameInner {
+  left: 807px;
+  background-color: var(--color-white);
+  width: 1052px;
+}
+.homeAboutUs,
+.services1 {
+  position: absolute;
+  font-family: var(--font-quicksand);
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.services1 {
+  top: 96px;
+  left: 752px;
+  font-size: 48px;
+  width: 824px;
+  height: 112px;
+}
+.homeAboutUs {
+  top: 20px;
+  left: 1042px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  width: 622px;
+  height: 63px;
+}
+.whiteLogo1Icon {
+  position: absolute;
+  top: 4px;
+  left: 436px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.diamondCasting,
+.letsConnect {
+  position: absolute;
+  display: inline-block;
+  color: var(--color-white);
+}
+.diamondCasting {
+  top: 17px;
+  left: 492px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-quantico);
+  width: 180px;
+  height: 22px;
+}
+.letsConnect {
+  top: 1361px;
+  left: 1105px;
+  font-family: var(--font-urbanist);
+  width: 370px;
+  height: 403px;
+}
+.frame,
+.services {
+  height: 1764px;
+  overflow: hidden;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: -419px;
+  width: 1859px;
+}
+.services {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-reem-kufi);
+}
